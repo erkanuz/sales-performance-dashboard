@@ -1,6 +1,6 @@
 # Sales Performance Dashboard (Power BI)
 
-<img width="1313" height="662" alt="IMG" src="https://github.com/user-attachments/assets/92c1e24c-37ea-4fef-8c79-173d018f5786" />
+<img width="1313" height="662" alt="Screenshot 2026-04-26 132314" src="https://github.com/user-attachments/assets/3801f056-65ad-43c3-a364-3564222ee2a2" />
 
 ## Overview
 This project showcases an interactive Sales Performance Dashboard built in Power BI, designed to provide insights into sales trends, profitability, and customer behavior across different segments and locations.
